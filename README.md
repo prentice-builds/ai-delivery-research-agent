@@ -110,7 +110,8 @@ I built this on my own time.
 
 ## Related
 
-The argument this supports is in [Where AI belongs in construction project delivery](https://github.com/prentice-builds/ai-in-project-delivery). The same architecture, applied to documents, is in the [construction document review prototypes](https://github.com/prentice-builds/construction-review-prototypes).
+- [Where AI belongs in construction project delivery](https://github.com/prentice-builds/ai-in-project-delivery). My report on where AI fits in a project manager's work.
+- [Construction document review prototypes](https://github.com/prentice-builds/construction-review-prototypes). Three reviews built the same way. AI interprets, code checks, and the project manager decides.
 
 ## Contact
 
